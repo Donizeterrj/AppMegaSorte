@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppMegaSorte</string>
+    <string name="enter_number">Escolha a quantidade de numeros (4 a 20)</string>
+    <string name="result_error">Digite um valor entre 4 e 20</string>
+</resources>
